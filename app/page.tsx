@@ -23,7 +23,7 @@ export default function Home() {
           />
           {/* <h1 className="text-4xl sm:text-5xl font-extrabold text-gray-900 dark:text-white text-center tracking-tight w-full">vybara</h1> */}
           <p className="text-lg sm:text-xl text-gray-600 dark:text-gray-300 text-center max-w-md w-full">
-          The dating app where vibe matters more than location.
+          The dating app where vibe matters more than location
           </p>
         </div>
         <form className="w-full flex flex-col sm:flex-row gap-4 items-center justify-center">
